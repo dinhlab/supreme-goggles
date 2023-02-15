@@ -15,13 +15,13 @@ const App = () => {
       </span>
       <div className="btn-group">
         <button onClick={decrement} className="btn btn-decrease">
-          DECREASE
+          DECREASE--
         </button>
         <button onClick={resetCount} className="btn btn-reset">
           RESET
         </button>
         <button onClick={increment} className="btn btn-increase">
-          INCREASE
+          INCREASE++
         </button>
       </div>
     </div>
