@@ -1,2 +1,2 @@
 Counter app using Reactjs  
-https://counter-reactjs-dinh.netlify.app/
+https://supreme-goggles.netlify.app/
